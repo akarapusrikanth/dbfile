@@ -1,0 +1,16 @@
+[
+  {
+    "flightNum": "SY3456",
+    "origin": "ORD",
+    "destination": "ATL",
+    "onTime": false,
+    "impactLevel": 7
+  },
+  {
+    "flightNum": "SY7651",
+    "origin": "ATL",
+    "destination": "SLC",
+    "onTime": true,
+    "impactLevel": 0
+  }
+]
